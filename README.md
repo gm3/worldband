@@ -1,5 +1,8 @@
 # WorldBand a CC0 band
 
+![](https://hackmd.io/_uploads/r17j_4UWn.jpg)
+
+
 The idea of a worldwide band seems like a good thing to create. Imageine a band that anyone can be in. You dont have to apply, no one owns the name, and it was just about collaboration. 
 
 What is this repo for?
